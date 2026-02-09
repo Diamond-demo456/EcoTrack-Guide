@@ -11,4 +11,8 @@ Add new habit:
 
 Final touch!!!
 
-Guiding...
+
+Problem 2: - Continuation of the Problem 1
+Task 1: Login to your Collaborator Account.
+Task 2: Goto feature-add-habits branch.
+Task 3: Add some text in the eco-habits.txt files. commit it. – Screenshot
